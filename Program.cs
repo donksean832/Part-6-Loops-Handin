@@ -12,7 +12,6 @@ namespace Part_6_Loops_Handin
         {
             int minValue;
             int maxValue;
-            //int randNum;
             int response;
             bool correct = true;
             Random rand1 = new Random();
